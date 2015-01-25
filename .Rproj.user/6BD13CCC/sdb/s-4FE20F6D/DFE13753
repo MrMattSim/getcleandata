@@ -1,0 +1,17 @@
+{
+    "contents" : "",
+    "created" : 1422220280392.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DFE13753",
+    "lastKnownWriteTime" : 1422220304,
+    "path" : "~/git/getcleandata/run_analysis.R",
+    "project_path" : "run_analysis.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
